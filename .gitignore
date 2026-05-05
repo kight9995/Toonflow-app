@@ -1,7 +1,6 @@
 .devtools
 # dependencies (bun install)
 node_modules
-.vscode
 # output
 out
 dist
